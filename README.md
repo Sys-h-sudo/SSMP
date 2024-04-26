@@ -57,9 +57,6 @@ To start your bot
 ```js
 node src/index.js
 
-# <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
-> How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
-
-```bash
+bash
 npm run add-dev YOUR_Discord_ID
 ```
